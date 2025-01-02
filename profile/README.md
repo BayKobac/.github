@@ -7,7 +7,7 @@
 
   ## 🏗 시스템 아키텍처
 
-<img width="988" alt="스크린샷 2025-01-02 오후 2 39 53" src="https://github.com/user-attachments/assets/0e1cf727-fc67-414e-acd1-9f50a5e38b27" />
+<img width="688" alt="스크린샷 2025-01-02 오후 2 39 53" src="https://github.com/user-attachments/assets/0e1cf727-fc67-414e-acd1-9f50a5e38b27" />
 
   ### Frontend (FE)
   - **주요 기능**
